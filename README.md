@@ -2,6 +2,8 @@
 
 **ICS Fusion** is a modern, client-side web application designed to merge multiple iCalendar (`.ics`) files into a single, consolidated calendar file. Built with **SolidJS**, **TypeScript**, and **Tailwind CSS**, it offers a seamless and responsive user experience with a clean Material Design 3 aesthetic.
 
+[Link to the application](https://fabiopsh.github.io/ics-fusion/) - ICS Fusion
+
 ![ICS Fusion Screenshot](./public/screenshot.png) <!-- Replace with actual screenshot if available -->
 
 ## Features
